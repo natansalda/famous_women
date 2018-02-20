@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#70CF97</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#60b282</color>
+
+    <!-- Background color for app -->
+    <color name="grey_background">#F5F5F5</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="category_numbers">#F5F5F5</color>
+
+    <!-- Text color heading -->
+    <color name="text_color_heading">#000000</color>
+
+    <!-- Text color heading on background picture -->
+    <color name="text_color_heading_white">#FFFFFF</color>
+
+    <!-- Text color details and main text -->
+    <color name="text_color_main">#898989</color>
+
+    <!-- Background color main text -->
+    <color name="background_color_main">#9E9E9E</color>
+
+    <!-- Radio buttons colors -->
+    <color name="colorRadioGray">@android:color/darker_gray</color>
+  <color name="dark_grey">#80000000</color>
+
+</resources>
